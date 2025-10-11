@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I started this blog so my study notes won't be "useless" and everyone can have a way to complement their knowledge in mathematics.
