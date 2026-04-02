@@ -1,4 +1,12 @@
 <hr>
+<div class="d-flex align-items-center justify-content-between mb-3">
+  <div style="flex: 1;">
+    <button id="themeToggle" class="btn btn-sm btn-outline-secondary" style="border-radius: 20px; padding: 2px 12px;">
+      <span id="themeIcon">🌙</span> <small>Mode</small>
+    </button>
+  </div>
+</div>
+
 <div class="post_navi">
   {%- if page.previous.url -%}
   <a class="post_navi-item nav_prev" href="{{ page.previous.url }}" title="{{ page.previous.title }}">
@@ -9,6 +17,7 @@
     <div class="post_navi-arrow">&lt;</div><div class="post_navi-label">Blog Archive</div><div><span>Archive of all previous blog posts</span></div>
   </a>
   {%- endif -%}
+  
   {%- if page.next.url -%}
   <a class="post_navi-item nav_next" href="{{ page.next.url }}" title="{{ page.next.title }}">
     <div class="post_navi-arrow">&gt;</div><div class="post_navi-label">Next Post</div><div><span>{{ page.next.title }}</span></div>
@@ -19,3 +28,24 @@
   </a>
   {%- endif -%}
 </div>
+
+<script>
+  const btn = document.getElementById('themeToggle');
+  const icon = document.getElementById('themeIcon');
+
+  const updateUI = (theme) => {
+    icon.innerText = theme === 'dark' ? '☀️' : '🌙';
+  };
+
+  // Sync icon on load
+  updateUI(document.documentElement.getAttribute('data-bs-theme'));
+
+  btn.addEventListener('click', () => {
+    const currentTheme = document.documentElement.getAttribute('data-bs-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    
+    document.documentElement.setAttribute('data-bs-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+    updateUI(newTheme);
+  });
+</script>
