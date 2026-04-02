@@ -1,23 +1,40 @@
+/* Horizontal rule color adjustment */
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
+  border-top: 1px solid #444; /* Darker line for dark theme */
+  opacity: 1;
 }
 
-/* Post navigation links */
+/* Post navigation links - Force Dark Mode Styles */
 .post_navi {
   display: flex;
+  gap: 10px; /* Adds a small gap between the two boxes */
 }
 
 .post_navi-label {
   font-size: 0.8em;
-  opacity: 0.5;
+  color: #888; /* Dimmed gray for the label */
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 .post_navi .post_navi-item {
-  padding: 0 2.2em;
+  padding: 1.5em 2.2em;
   width: 50%;
   position: relative;
-  color: inherit !important;
+  background-color: #1e1e1e; /* Dark background for the boxes */
+  border: 1px solid #333;    /* Subtle border */
+  border-radius: 8px;        /* Slightly rounded corners for a modern look */
+  text-decoration: none;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+  color: #e0e0e0 !important;
+}
+
+.post_navi .post_navi-item:hover {
+  background-color: #252525; /* Lighten slightly on hover */
+  border-color: #555;
+  text-decoration: none;
 }
 
 .post_navi .nav_prev {
@@ -28,18 +45,28 @@ hr {
   text-align: right;
 }
 
-.post_navi .nav_prev .post_navi-arrow {
-  left: 0;
-}
-
-.post_navi .nav_next .post_navi-arrow {
-  right: 0;
-}
-
+/* Arrow styling for dark mode */
 .post_navi .post_navi-arrow {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  font-size: 2.5em;
-  opacity: 0.3;
+  font-size: 2em;
+  color: #555; /* Muted arrow color */
+  font-weight: 300;
+}
+
+.post_navi .nav_prev .post_navi-arrow {
+  left: 15px;
+}
+
+.post_navi .nav_next .post_navi-arrow {
+  right: 15px;
+}
+
+/* Ensure specific post titles inside nav are bright */
+.post_navi-item span {
+  display: block;
+  font-weight: bold;
+  color: #fff;
+  margin-top: 5px;
 }
