@@ -1,45 +1,87 @@
+/* 1. Global Reset to Dark */
+html, body {
+  background-color: #121212 !important; /* Deep dark background */
+  color: #e0e0e0 !important;           /* Light gray text for readability */
+}
+
+/* 2. Link Colors */
+a {
+  color: #8ab4f8 !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #aecbfa !important;
+  text-decoration: underline;
+}
+
+/* 3. Horizontal Rule */
 hr {
-  margin-top: 30px;
-  margin-bottom: 20px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  border-top: 1px solid #333 !important;
+  opacity: 1;
 }
 
-/* Post navigation links */
+/* 4. Post Navigation Links (The specific block you shared) */
 .post_navi {
-  display: flex;
-}
-
-.post_navi-label {
-  font-size: 0.8em;
-  opacity: 0.5;
+  display: flex;
+  gap: 15px; /* Adds space between the boxes */
+  margin-top: 20px;
 }
 
 .post_navi .post_navi-item {
-  padding: 0 2.2em;
-  width: 50%;
-  position: relative;
-  color: inherit !important;
+  padding: 1.5em 2.5em;
+  width: 50%;
+  position: relative;
+  background-color: #1e1e1e !important; /* Dark card background */
+  border: 1px solid #333 !important;    /* Subtle border */
+  border-radius: 8px;
+  color: #e0e0e0 !important;
+  transition: all 0.2s ease;
 }
 
-.post_navi .nav_prev {
-  text-align: left;
+.post_navi .post_navi-item:hover {
+  background-color: #2a2a2a !important;
+  border-color: #444 !important;
 }
 
-.post_navi .nav_next {
-  text-align: right;
+.post_navi-label {
+  font-size: 0.8em;
+  color: #888 !important; /* Dimmed label */
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
-.post_navi .nav_prev .post_navi-arrow {
-  left: 0;
-}
-
-.post_navi .nav_next .post_navi-arrow {
-  right: 0;
-}
-
+/* Arrow Styling */
 .post_navi .post_navi-arrow {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 2.5em;
-  opacity: 0.3;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 2em;
+  color: #444 !important; /* Muted arrow color */
+}
+
+.post_navi .nav_prev { text-align: left; }
+.post_navi .nav_next { text-align: right; }
+
+.post_navi .nav_prev .post_navi-arrow { left: 15px; }
+.post_navi .nav_next .post_navi-arrow { right: 15px; }
+
+/* 5. Fix for MathJax (Formulas) */
+mjx-container {
+  color: #e0e0e0 !important;
+}
+
+/* 6. Fix for Code Blocks (Highlight.js) */
+/* Since we are doing CSS only, we force the background of the code boxes */
+pre, code, .hljs {
+  background-color: #1e1e1e !important;
+  color: #d4d4d4 !important;
+  border: 1px solid #333;
+}
+
+/* 7. Post Titles/Headers */
+h1, h2, h3, h4, .post-title {
+  color: #ffffff !important;
 }
