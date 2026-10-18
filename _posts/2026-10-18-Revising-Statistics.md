@@ -7,5 +7,5 @@ Below are some of my handwritten notes from the past few days, digitized into Ma
 Have a good reading!
 
 
-[My Notes](../public-files/AoS_Notes1.pdf)
+[My Notes](..../public-files/AoS_Notes1.pdf)
 
