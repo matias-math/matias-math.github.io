@@ -41,5 +41,3 @@ defaults:
     values:
       tags: Other
 
-exclude:
-  - _posts/files/
