@@ -1,40 +1,421 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="331.638" height="66.659" viewBox="0 0 331.638 66.659">
-<text xml:space="preserve" transform="matrix(1 0 -0 1 .0000076293949 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-50.425" x="9.959 17.151997">Ch</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 .0000076293949 66.659)" font-size="9.9626" font-family="Computer Modern" font-style="italic"><tspan y="-50.425" x="22.691203">.</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 .0000076293949 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-50.425" x="28.77835">9</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 .0000076293949 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-50.425" x="78.203 85.396">Ch</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 .0000076293949 66.659)" font-size="9.9626" font-family="Computer Modern" font-style="italic"><tspan y="-50.425" x="90.93521">.</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 .0000076293949 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-50.425" x="97.022357">8</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-50.425" x="146.447 153.64">Ch</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 66.659)" font-size="9.9626" font-family="Computer Modern" font-style="italic"><tspan y="-50.425" x="159.1792">.</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-50.425" x="165.26636 170.24765">12</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 .000015258789 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-50.425" x="219.673 226.866">Ch</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 .000015258789 66.659)" font-size="9.9626" font-family="Computer Modern" font-style="italic"><tspan y="-50.425" x="232.4052">.</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 .000015258789 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-50.425" x="238.49236 243.47365">14</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-50.425" x="292.898 300.091">Ch</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 66.659)" font-size="9.9626" font-family="Computer Modern" font-style="italic"><tspan y="-50.425" x="305.63023">.</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-50.425" x="311.71736 316.69865">13</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-9.315" x="146.447 153.64">Ch</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 66.659)" font-size="9.9626" font-family="Computer Modern" font-style="italic"><tspan y="-9.315" x="159.1792">.</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-9.315" x="165.26636 170.24765">21</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 .000015258789 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-9.315" x="219.673 226.866">Ch</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 .000015258789 66.659)" font-size="9.9626" font-family="Computer Modern" font-style="italic"><tspan y="-9.315" x="232.4052">.</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 .000015258789 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-9.315" x="238.49236 243.47365">22</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-9.315" x="292.898 300.091">Ch</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 66.659)" font-size="9.9626" font-family="Computer Modern" font-style="italic"><tspan y="-9.315" x="305.63023">.</tspan></text>
-<text xml:space="preserve" transform="matrix(1 0 -0 1 0 66.659)" font-size="9.9626" font-family="Computer Modern"><tspan y="-9.315" x="311.71736 316.69865">20</tspan></text>
-<path transform="matrix(1,0,0,-1,165.819,33.329999)" stroke-width=".39848" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M-127.5735 19.58653H-92.50441"/>
-<path transform="matrix(1,0,0,-1,73.51382,13.743467)" stroke-width=".39848" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M-2.07213 2.39091C-1.69356 .95633-.84995 .27893 0 0-.84995-.27893-1.69356-.95633-2.07213-2.39091"/>
-<path transform="matrix(1,0,0,-1,165.819,33.329999)" stroke-width=".39848" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M-59.32843 19.58653H-24.25934"/>
-<path transform="matrix(1,0,0,-1,141.7589,13.743467)" stroke-width=".39848" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M-2.07213 2.39091C-1.69356 .95633-.84995 .27893 0 0-.84995-.27893-1.69356-.95633-2.07213-2.39091"/>
-<path transform="matrix(1,0,0,-1,165.819,33.329999)" stroke-width=".39848" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M13.89804 19.58653H48.96713"/>
-<path transform="matrix(1,0,0,-1,214.98537,13.743467)" stroke-width=".39848" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M-2.07213 2.39091C-1.69356 .95633-.84995 .27893 0 0-.84995-.27893-1.69356-.95633-2.07213-2.39091"/>
-<path transform="matrix(1,0,0,-1,165.819,33.329999)" stroke-width=".39848" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M87.12453 19.58653H122.19362"/>
-<path transform="matrix(1,0,0,-1,288.21186,13.743467)" stroke-width=".39848" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M-2.07213 2.39091C-1.69356 .95633-.84995 .27893 0 0-.84995-.27893-1.69356-.95633-2.07213-2.39091"/>
-<path transform="matrix(1,0,0,-1,165.819,33.329999)" stroke-width=".39848" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M141.47154 13.25047V-12.852"/>
-<path transform="matrix(0,1,1,0,307.29054,46.381238)" stroke-width=".39848" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M-2.07213 2.39091C-1.69356 .95633-.84995 .27893 0 0-.84995-.27893-1.69356-.95633-2.07213-2.39091"/>
-<path transform="matrix(1,0,0,-1,165.819,33.329999)" stroke-width=".39848" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M49.3656-21.52371H14.29651"/>
-<path transform="matrix(-1,-0,0,1,179.91628,54.853708)" stroke-width=".39848" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M-2.07213 2.39091C-1.69356 .95633-.84995 .27893 0 0-.84995-.27893-1.69356-.95633-2.07213-2.39091"/>
-<path transform="matrix(1,0,0,-1,165.819,33.329999)" stroke-width=".39848" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M122.59209-21.52371H87.523"/>
-<path transform="matrix(-1,-0,0,1,253.14276,54.853708)" stroke-width=".39848" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M-2.07213 2.39091C-1.69356 .95633-.84995 .27893 0 0-.84995-.27893-1.69356-.95633-2.07213-2.39091"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="335.4751"
+   height="74.55648"
+   viewBox="0 0 335.4751 74.556484"
+   id="svg37"
+   sodipodi:docname="TexJax.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs37" />
+  <sodipodi:namedview
+     id="namedview37"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.8485718"
+     inkscape:cx="211.5095"
+     inkscape:cy="11.935806"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     transform="translate(1.5496233,2.6277316)">
+    <rect
+       style="fill:#f4d7d7;stroke-width:0.848094"
+       id="rect38"
+       width="335.4751"
+       height="74.55648"
+       x="-1.5496233"
+       y="-2.6277316"
+       ry="23.169506" />
+  </g>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text1"
+     x="1.5496309"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="11.508631 18.701628"
+       id="tspan1">Ch</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     font-style="italic"
+     id="text2"
+     x="1.5496309"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="24.240833"
+       id="tspan2">.</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text3"
+     x="1.5496309"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="30.327982"
+       id="tspan3">9</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text4"
+     x="1.5496309"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="79.752632 86.945633"
+       id="tspan4">Ch</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     font-style="italic"
+     id="text5"
+     x="1.5496309"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="92.48484"
+       id="tspan5">.</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text6"
+     x="1.5496309"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="98.571983"
+       id="tspan6">8</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text7"
+     x="1.5496233"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="147.99663 155.18962"
+       id="tspan7">Ch</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     font-style="italic"
+     id="text8"
+     x="1.5496233"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="160.72882"
+       id="tspan8">.</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text9"
+     x="1.5496233"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="166.81598 171.79727"
+       id="tspan9">12</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text10"
+     x="1.5496385"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="221.22264 228.41563"
+       id="tspan10">Ch</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     font-style="italic"
+     id="text11"
+     x="1.5496385"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="233.95483"
+       id="tspan11">.</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text12"
+     x="1.5496385"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="240.04199 245.02328"
+       id="tspan12">14</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text13"
+     x="1.5496233"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="294.44763 301.64062"
+       id="tspan13">Ch</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     font-style="italic"
+     id="text14"
+     x="1.5496233"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="307.17984"
+       id="tspan14">.</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text15"
+     x="1.5496233"
+     y="69.286728"><tspan
+       y="18.861732"
+       x="313.26697 318.24826"
+       id="tspan15">13</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text16"
+     x="1.5496233"
+     y="69.286728"><tspan
+       y="59.971733"
+       x="147.99663 155.18962"
+       id="tspan16">Ch</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     font-style="italic"
+     id="text17"
+     x="1.5496233"
+     y="69.286728"><tspan
+       y="59.971733"
+       x="160.72882"
+       id="tspan17">.</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text18"
+     x="1.5496233"
+     y="69.286728"><tspan
+       y="59.971733"
+       x="166.81598 171.79727"
+       id="tspan18">21</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text19"
+     x="1.5496385"
+     y="69.286728"><tspan
+       y="59.971733"
+       x="221.22264 228.41563"
+       id="tspan19">Ch</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     font-style="italic"
+     id="text20"
+     x="1.5496385"
+     y="69.286728"><tspan
+       y="59.971733"
+       x="233.95483"
+       id="tspan20">.</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text21"
+     x="1.5496385"
+     y="69.286728"><tspan
+       y="59.971733"
+       x="240.04199 245.02328"
+       id="tspan21">22</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text22"
+     x="1.5496233"
+     y="69.286728"><tspan
+       y="59.971733"
+       x="294.44763 301.64062"
+       id="tspan22">Ch</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     font-style="italic"
+     id="text23"
+     x="1.5496233"
+     y="69.286728"><tspan
+       y="59.971733"
+       x="307.17984"
+       id="tspan23">.</tspan></text>
+  <text
+     xml:space="preserve"
+     font-size="9.9626px"
+     font-family="'Computer Modern'"
+     id="text24"
+     x="1.5496233"
+     y="69.286728"><tspan
+       y="59.971733"
+       x="313.26697 318.24826"
+       id="tspan24">20</tspan></text>
+  <path
+     stroke-width="0.39848"
+     stroke-linecap="butt"
+     stroke-miterlimit="10"
+     stroke-linejoin="miter"
+     fill="none"
+     stroke="#000000"
+     d="m 39.795123,16.371201 h 35.06909"
+     id="path24" />
+  <path
+     stroke-width="0.39848"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#000000"
+     d="m 72.991313,13.980289 c 0.37857,1.43458 1.22218,2.11198 2.07213,2.39091 -0.84995,0.27893 -1.69356,0.95633 -2.07213,2.39091"
+     id="path25" />
+  <path
+     stroke-width="0.39848"
+     stroke-linecap="butt"
+     stroke-miterlimit="10"
+     stroke-linejoin="miter"
+     fill="none"
+     stroke="#000000"
+     d="m 108.04019,16.371201 h 35.06909"
+     id="path26" />
+  <path
+     stroke-width="0.39848"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#000000"
+     d="m 141.23639,13.980289 c 0.37857,1.43458 1.22218,2.11198 2.07213,2.39091 -0.84995,0.27893 -1.69356,0.95633 -2.07213,2.39091"
+     id="path27" />
+  <path
+     stroke-width="0.39848"
+     stroke-linecap="butt"
+     stroke-miterlimit="10"
+     stroke-linejoin="miter"
+     fill="none"
+     stroke="#000000"
+     d="m 181.26666,16.371201 h 35.06909"
+     id="path28" />
+  <path
+     stroke-width="0.39848"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#000000"
+     d="m 214.46286,13.980289 c 0.37857,1.43458 1.22218,2.11198 2.07213,2.39091 -0.84995,0.27893 -1.69356,0.95633 -2.07213,2.39091"
+     id="path29" />
+  <path
+     stroke-width="0.39848"
+     stroke-linecap="butt"
+     stroke-miterlimit="10"
+     stroke-linejoin="miter"
+     fill="none"
+     stroke="#000000"
+     d="m 254.49315,16.371201 h 35.06909"
+     id="path30" />
+  <path
+     stroke-width="0.39848"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#000000"
+     d="m 287.68935,13.980289 c 0.37857,1.43458 1.22218,2.11198 2.07213,2.39091 -0.84995,0.27893 -1.69356,0.95633 -2.07213,2.39091"
+     id="path31" />
+  <path
+     stroke-width="0.39848"
+     stroke-linecap="butt"
+     stroke-miterlimit="10"
+     stroke-linejoin="miter"
+     fill="none"
+     stroke="#000000"
+     d="m 308.84016,22.707261 v 26.10247"
+     id="path32" />
+  <path
+     stroke-width="0.39848"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#000000"
+     d="m 311.23107,46.93684 c -1.43458,0.37857 -2.11198,1.22218 -2.39091,2.07213 -0.27893,-0.84995 -0.95633,-1.69356 -2.39091,-2.07213"
+     id="path33" />
+  <path
+     stroke-width="0.39848"
+     stroke-linecap="butt"
+     stroke-miterlimit="10"
+     stroke-linejoin="miter"
+     fill="none"
+     stroke="#000000"
+     d="M 216.73422,57.481441 H 181.66513"
+     id="path34" />
+  <path
+     stroke-width="0.39848"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#000000"
+     d="m 183.53803,59.87235 c -0.37857,-1.43458 -1.22218,-2.11198 -2.07213,-2.39091 0.84995,-0.27893 1.69356,-0.95633 2.07213,-2.39091"
+     id="path35" />
+  <path
+     stroke-width="0.39848"
+     stroke-linecap="butt"
+     stroke-miterlimit="10"
+     stroke-linejoin="miter"
+     fill="none"
+     stroke="#000000"
+     d="M 289.96071,57.481441 H 254.89162"
+     id="path36" />
+  <path
+     stroke-width="0.39848"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#000000"
+     d="m 256.76451,59.87235 c -0.37857,-1.43458 -1.22218,-2.11198 -2.07213,-2.39091 0.84995,-0.27893 1.69356,-0.95633 2.07213,-2.39091"
+     id="path37" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(1.5496233,2.6277316)" />
 </svg>
