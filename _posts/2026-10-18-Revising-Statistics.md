@@ -7,4 +7,4 @@ Below are some of my handwritten notes from the past few days, digitized into Ma
 Have a good reading!
 
 
-[My Notes](https://github.com/matias-math/matias-math.github.io/blob/07bc5f613f11f7d4ebc3aa145b9c5338be89ac70/public-files/AoS_Notes1.pdf)
+[My Notes](https://matias-math.github.io/public-files/AoS_Notes1.pdf)
